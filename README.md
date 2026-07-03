@@ -1,16 +1,104 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ali Khidirov</h1>
 
-<!--
-**ali-hidirov-09/ali-hidirov-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Junior Python Backend Developer from Kazakhstan 🇰🇿
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building production-ready backend systems with Python, Django and Django REST Framework.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Junior Python Backend Developer specializing in Django & Django REST Framework.
+- 💼 Delivered production backend systems for real clients.
+- 👨‍🏫 Python Backend Mentor.
+- 🧠 Interested in Backend Architecture, Distributed Systems and Software Engineering.
+- 📚 Continuously improving through real-world projects and self-study.
+- 🌍 Open to Remote and Hybrid opportunities.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+Python • Django • Django REST Framework • FastAPI
+
+### Database
+
+PostgreSQL • Redis
+
+### DevOps
+
+Docker • Docker Compose • Nginx • AWS EC2
+
+### Tools
+
+Git • GitHub • Linux • Postman
+
+### Others
+
+Celery • WebSocket • JWT • CI/CD • GitHub Actions
+
+---
+
+## 🚀 Featured Projects
+
+### 🚖 TezYet Taxi
+
+Production-ready taxi booking backend.
+
+**Highlights**
+
+- Real-time ride booking
+- WebSocket
+- JWT Authentication
+- PostgreSQL
+- Docker
+- Clean Architecture
+
+---
+
+### 👨‍💼 Workforce API
+
+Production workforce management backend.
+
+**Highlights**
+
+- Employee Management
+- Attendance
+- Orders
+- Reports
+- Role-Based Access Control
+
+---
+
+### 🤖 HR Platform
+
+Backend system built in an 8-member development team.
+
+**Highlights**
+
+- Django REST Framework
+- Telegram Bot
+- Email OTP
+- JWT Authentication
+- Pull Request Reviews
+
+---
+
+## 📫 Connect With Me
+
+📧 Email:
+**alihidirov285@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/ali-xidirov-596560398/
+
+🌐 GitHub
+
+https://github.com/ali-hidirov-09
