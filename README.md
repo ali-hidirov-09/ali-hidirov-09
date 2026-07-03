@@ -97,7 +97,7 @@ Backend system built in an 8-member development team.
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/ali-xidirov-596560398/
+https://www.linkedin.com/in/khidirov-ali/
 
 🌐 GitHub
 
