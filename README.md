@@ -44,15 +44,17 @@ Git • GitHub • Linux • Postman
 Celery • WebSocket • JWT • CI/CD • GitHub Actions
 
 ---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ali-hidirov-09&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-hidirov-09&theme=tokyonight" alt="GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hidirov-09&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-hidirov-09&theme=tokyonight" alt="Top Languages" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-hidirov-09&theme=tokyo-night&bg_color=1a1b26" alt="Activity Graph" width="49%" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
