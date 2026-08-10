@@ -46,15 +46,18 @@ Celery • WebSocket • JWT • CI/CD • GitHub Actions
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ali-hidirov-09&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-hidirov-09&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ali-hidirov-09&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hidirov-09&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="49%" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hidirov-09&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ali-hidirov-09&theme=tokyonight&column=3" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-hidirov-09&theme=tokyonight" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ali-hidirov-09&theme=tokyonight&column=6" />
-</p>
 ---
 
 ## 🚀 Featured Projects
